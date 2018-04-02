@@ -1,12 +1,14 @@
 # My Isometric Icons (MI2)
 
-These are some isometric icons using [Google Material Design Icons](https://material.io/icons/) and saved as scalable vector graphics (SVG)
+These are some isometric icons designed using [Google Material Design Icons](https://material.io/icons/) and saved as scalable vector graphics (SVG).
 
 ## An Example of MI2 in Use
 
-Here's an example of this MI2 project in use (not all icons are used in this example):
+Here's an example of this MI2 project in use (example developed using [Draw.io](https://www.draw.io/)):
 
 ![diagram_sample](https://user-images.githubusercontent.com/10182110/38208224-31ed5844-3665-11e8-8bb1-733d6ee35754.png)
+
+>Note that not all available icons are used in this example
 
 ## Current List of MI2 Icons
 
@@ -16,7 +18,7 @@ Here's an example of this MI2 project in use (not all icons are used in this exa
 
 Please respect the licensing of the [Google Material Design Icons](https://material.io/icons/) used in this project. All other software deliverables are subject to the MIT License, as stated below.
 
-The MIT License (MIT)
+**The MIT License (MIT)**
 
 Copyright (c) Business Learning Incorporated
 
