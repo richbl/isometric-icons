@@ -12,6 +12,8 @@ Here's an example of this MI2 project in use (example developed using [Draw.io](
 
 ## Current List of MI2 Icons
 
+The list below shows all available MI2 icons. All icons developed using [Inkscape](https://inkscape.org).
+
 ![available_icons](https://user-images.githubusercontent.com/10182110/38208400-c743e2b4-3665-11e8-9adf-fe993e9f52bf.png)
 
 ## License
